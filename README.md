@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Github Dashboard**
+- 🔭 I’m currently working on **react-chat-app**
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **React, Web Design, WebDeveloping, JavaScript**
+- 💬 Ask me about **React, Web Design, WebDeveloping, JavaScript, typescript, TailwindCss**
 
 - 📫 How to reach me **meiti.edu@gmail.com**
 
