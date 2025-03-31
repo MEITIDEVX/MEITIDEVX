@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **react-chat-app**
+- 🔭 I’m currently working on **Arvin Tav**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 💬 Ask me about **React, Web Design, WebDeveloping, JavaScript, typescript, TailwindCss**
 
-- 📫 How to reach me **meiti.edu@gmail.com**
+- 📫 How to reach me **dev.meiti@gmail.com**
 
 <hr/>
 
