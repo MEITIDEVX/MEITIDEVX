@@ -37,6 +37,10 @@
 ###
 
 
+
+
+<br clear="both">
+
 <h3 align="center"></h3>
 
 ###
@@ -45,7 +49,7 @@
 
 ###
 
-<br clear="both">
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="84" alt="typescript logo"  />
