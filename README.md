@@ -1,32 +1,119 @@
-[![MasterHead](https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png)](https://meiti.com)
-<h1 align="center">Hi 👋, I'm Mahdi Dehgani</h1>
-<h3 align="center">:snowflake: A passionate frontend developer from Tabriz / IRAN :snowflake:</h3>
+<br clear="both">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=meiti-021&label=Profile%20views&color=0e75b6&style=flat" alt="meiti-021" /> </p>
+<h1 align="center">MEITIDEVX</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meiti-021" alt="meiti-021" /></a> </p>
+###
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" height="265" src="https://i.postimg.cc/rpygCvcr/f0f0d932d6e39c7af5aa305cbd8da735.gif"  />
 
-- 🔭 I’m currently working on **Arvin Tav**
+###
 
-- 🌱 I’m currently learning **ASP.NET Core**
+<h3 align="center">Full-Stack Web Developer</h3>
 
-- 💬 Ask me about **React, Web Design, WebDeveloping, JavaScript, typescript, TailwindCss**
+###
 
-- 📫 How to reach me **dev.meiti@gmail.com**
+<p align="center">I build scalable, high-quality web applications with a strong focus on clean architecture, performance, and user experience. Skilled in both frontend and backend development, I enjoy solving complex problems and writing maintainable code.<br>Currently exploring Machine Learning, Python, and AI-driven solutions, as well as creative projects in game development with Unity. Always learning, always leveling up.</p>
 
-<hr/>
+###
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/meiti-021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meiti-021" height="30" width="40" /></a>
-<a href="https://instagram.com/meiti-021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meiti-021" height="30" width="40" /></a>
-</p><br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahdi-dehgani/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/DevMeiti" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <a href="https://t.me/devmeiti" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="dev.meiti@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p><hr/>
+###
 
+<br clear="both">
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="84" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="84" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="84" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="84" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="84" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="84" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="84" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="84" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="84" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="84" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="84" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="84" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="84" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="84" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="84" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="84" alt="fastapi logo"  />
+</div>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meiti-021&" alt="meiti-021" /></p>
+###
+
+<h3 align="center"></h3>
+
+###
+
+<h3 align="center">ACHIEVMENTS</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=MEITIDEVX&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h3 align="center"></h3>
+
+###
+
+<h3 align="center">STATISTICS</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MEITIDEVX&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="center"></h3>
+
+###
+
+<h3 align="center">PACMAN</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEITIDEVX/MEITIDEVX/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEITIDEVX/MEITIDEVX/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MEITIDEVX/MEITIDEVX/output/pacman-contribution-graph.svg">
+</picture>
+
+###
