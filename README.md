@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">I build scalable, high-quality web applications with a strong focus on clean architecture, performance, and user experience. Skilled in both frontend and backend development, I enjoy solving complex problems and writing maintainable code.<br>Currently exploring Machine Learning, Python, and AI-driven solutions, as well as creative projects in game development with Unity. Always learning, always leveling up.</p>
+<p align="center" >I build scalable, high-quality web applications with a strong focus on clean architecture, performance, and user experience. Skilled in both frontend and backend development, I enjoy solving complex problems and writing maintainable code.<br>Currently exploring Machine Learning, Python, and AI-driven solutions, as well as creative projects in game development with Unity. Always learning, always leveling up.</p>
 
 ###
 
@@ -59,7 +59,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="84" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="84" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="84" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="84" alt="dot-net logo"  />
   <img width="12" />
@@ -106,14 +106,3 @@
 
 ###
 
-<h3 align="center">PACMAN</h3>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEITIDEVX/MEITIDEVX/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEITIDEVX/MEITIDEVX/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MEITIDEVX/MEITIDEVX/output/pacman-contribution-graph.svg">
-</picture>
-
-###
