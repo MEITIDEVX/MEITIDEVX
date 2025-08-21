@@ -67,8 +67,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="84" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="84" alt="django logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="84" alt="fastapi logo"  />
 </div>
 
