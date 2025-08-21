@@ -36,6 +36,15 @@
 
 ###
 
+
+<h3 align="center"></h3>
+
+###
+
+<h3 align="center">LANGUAGES AND SKILLS</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
